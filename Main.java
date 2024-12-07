@@ -12,7 +12,7 @@ import javafx.stage.Stage;
 
 
 
-public class Main extends Application{
+public class Main HW extends Application{
     Scene scene;
     VBox vBox;
     HBox hBox;
